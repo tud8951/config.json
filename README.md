@@ -1,8 +1,6 @@
 # config.json
 最全的影视api
 
-'''
-
 {
   "cache_time": 7200,
   "api_site": {
@@ -539,5 +537,3 @@
   }
 
 }
-
-'''
